@@ -1,4 +1,4 @@
-# OpenWrt Kernel 6.6 firmware for Newifi2 with NSS Driver
+# ImmortalWrt Kernel 6.6 firmware for Newifi2
 
 Auto build Openwrt firmware for Newifi2 via GitHub Actions
 
