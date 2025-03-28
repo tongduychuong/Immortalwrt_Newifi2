@@ -9,7 +9,8 @@
 #
 
 name: Build OpenWrt
-
+permissions:
+  contents: write
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: master
