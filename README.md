@@ -2,4 +2,4 @@
 
 Auto build Openwrt firmware for Newifi2 via GitHub Actions
 
-[![GitHub release (latest by date)]](https://github.com/tongduychuong/Openwrt_NSS_R7500/releases/latest)
+[GitHub release (latest by date)](https://github.com/tongduychuong/Immortalwrt_Newifi2/releases/latest)
